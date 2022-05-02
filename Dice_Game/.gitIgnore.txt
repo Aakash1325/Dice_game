@@ -1,4 +1,4 @@
 '.prettierrc'
 'pig-game-flowchart.png'
-'.gitIgnore'
+'.gitIgnore.txt'
 
